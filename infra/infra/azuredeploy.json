@@ -40,7 +40,6 @@
     "keysecret_Value": {
       "type": "String"
     }
-
   },
   "variables": {
     "acrPullRole": "[concat(subscription().Id, '/providers/Microsoft.Authorization/roleDefinitions/7f951dda-4ed3-4680-a7ca-43fe172d538d')]"
