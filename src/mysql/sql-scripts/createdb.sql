@@ -1,4 +1,5 @@
 use mydb;
+
 create table registration_tbl(
    reg_id INT NOT NULL AUTO_INCREMENT,
    first_name VARCHAR(100) NOT NULL,
